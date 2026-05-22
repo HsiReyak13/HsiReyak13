@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+HsiReyak13;IT+Student+%7C+Developer+%7C+Tech+Explorer;Building+clean+and+useful+systems;Always+learning%2C+always+creating" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=200&section=header&text=HsiReyak13&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2CFF&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+HsiReyak13;IT+Student+%7C+Aspiring+Developer;Java+%7C+Web+Development+%7C+UI%2FUX;Building+systems+that+are+clean+and+useful;Always+learning%2C+always+improving" alt="Typing SVG" />
 
 </div>
 
@@ -19,16 +13,19 @@
 ```java
 public class HsiReyak13 {
     String role = "IT Student";
-    String focus = "Software Development";
+    String goal = "To become a skilled software developer";
+    String focus = "Building clean, useful, and user-friendly systems";
+
     String[] interests = {
-        "Java Programming",
-        "System Development",
-        "UI/UX Design",
+        "Java Development",
         "Web Development",
+        "UI/UX Design",
+        "Database Management",
+        "System Design",
         "Technology and Innovation"
     };
 
-    void currentGoal() {
-        System.out.println("Build meaningful, clean, and user-friendly projects.");
+    void motto() {
+        System.out.println("Keep learning. Keep building. Keep improving.");
     }
 }
