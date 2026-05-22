@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=180&section=header&text=HsiReyak13&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# こんにちは, I'm HsiReyak13
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=IT+Student;Aspiring+Software+Developer;Java+%7C+Web+Development+%7C+UI%2FUX;Code.+Learn.+Build.+Improve." />
 
