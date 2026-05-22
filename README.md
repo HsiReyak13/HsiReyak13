@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=200&section=header&text=HsiReyak13&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=HsiReyak13&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+HsiReyak13;IT+Student+%7C+Aspiring+Developer;Java+%7C+Web+Development+%7C+UI%2FUX;Building+systems+that+are+clean+and+useful;Always+learning%2C+always+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+HsiReyak13;IT+Student+%7C+Aspiring+Developer;Java+%7C+Web+Development+%7C+UI%2FUX;Building+clean+and+useful+systems;Always+learning%2C+always+improving" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=HsiReyak13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/HsiReyak13?label=Followers&style=for-the-badge" alt="followers" />
+<img src="https://img.shields.io/github/stars/HsiReyak13?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
 ```java
 public class HsiReyak13 {
