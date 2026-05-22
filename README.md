@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=210&section=header&text=HsiReyak13&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=HsiReyak13&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
 # -ˋˏ もしもし, I'm HsiReyak13! ˎˊ-
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=IT+Student+%E2%9C%A6+Aspiring+Developer;Java+%E2%9C%A6+Web+Development+%E2%9C%A6+UI%2FUX;Building+clean+and+useful+systems;Learning+something+new+everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=IT+Student+%E2%9C%A6+Aspiring+Developer;Java+%E2%9C%A6+Web+Development+%E2%9C%A6+UI%2FUX;Building+clean+and+useful+systems;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
 
 <br><br>
 
@@ -16,13 +16,9 @@
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-
-</div>
-
----
+<table>
+<tr>
+<td width="55%">
 
 ## ✦ About Me
 
@@ -31,6 +27,19 @@
 > 🌱 Currently learning Java, web development, databases, and UI/UX  
 > 🎨 Passionate about user-friendly interfaces and simple digital experiences  
 > 🚀 Always improving through projects, practice, and curiosity  
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Developer Profile
 
 ```java
 public class HsiReyak13 {
@@ -81,12 +90,14 @@ public class HsiReyak13 {
 
 ## ✦ Programming Languages
 
+<div align="center">
+
 | Language | What I Use It For |
 |---|---|
 | Java | OOP, desktop apps, school projects, system development |
-| Python | Scripting, automation, logic practice |
+| Python | Scripting, automation, and logic practice |
 | JavaScript | Web interactivity and frontend logic |
-| TypeScript | Cleaner and safer JavaScript |
+| TypeScript | Cleaner and safer JavaScript development |
 | HTML | Website structure |
 | CSS | Styling, layout, animation, and responsive design |
 | C | Programming fundamentals |
@@ -94,9 +105,11 @@ public class HsiReyak13 {
 | C# | Application development exploration |
 | PHP | Basic backend web development |
 
+</div>
+
 ---
 
-## ✦ GitHub Stats
+## ✦ GitHub Dashboard
 
 <div align="center">
 
@@ -104,13 +117,7 @@ public class HsiReyak13 {
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HsiReyak13&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00C8&currStreakLabel=00F7FF" />
 
-</div>
-
----
-
-## ✦ Most Used Languages
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsiReyak13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
@@ -128,7 +135,7 @@ public class HsiReyak13 {
 
 ---
 
-## ✦ GitHub Summary
+## ✦ GitHub Summary Cards
 
 <div align="center">
 
@@ -191,6 +198,8 @@ graph TD;
 
 ## ✦ Projects I Like Building
 
+<div align="center">
+
 | Project Type | Description |
 |---|---|
 | Library Systems | Book borrowing, returning, and management |
@@ -201,6 +210,8 @@ graph TD;
 | Web Apps | Responsive and interactive websites |
 | UI/UX Prototypes | Clean and user-friendly layouts |
 | Educational Apps | Tools that support students and learning |
+
+</div>
 
 ---
 
