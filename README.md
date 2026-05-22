@@ -96,10 +96,16 @@ I am an IT student who enjoys building practical software projects, learning new
 
 ---
 
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF00C8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Keep+learning.+Keep+building." />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2CFF,100:00F7FF&height=100&section=footer" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2CFF,100:00F7FF&height=110&section=footer" />
+
+</div>
